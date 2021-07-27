@@ -1,8 +1,0 @@
-{
-    "name": "Z K Abid",
-    "email": "zkabid911@gmail.com",
-    "phone": 0123456789,
-    "work": "Web developer",
-    "password": "password",
-    "cpassword": "password"
-}
